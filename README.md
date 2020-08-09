@@ -1,2 +1,2 @@
-# cdn
-Repositório de Arquivos estáticos
+# Static
+Repositório de Arquivos estáticos projeto Genezzis
