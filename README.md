@@ -1,2 +1,2 @@
 # Static
-Repositório de Arquivos estáticos projeto Genezzis
+Repositório de Arquivos estáticos projeto CMS Genezzis
