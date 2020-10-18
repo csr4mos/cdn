@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'cb-fontello';
-  src: url('../font/cb-fontello.eot?56979644');
-  src: url('../font/cb-fontello.eot?56979644#iefix') format('embedded-opentype'),
-       url('../font/cb-fontello.svg?56979644#cb-fontello') format('svg');
+  src: url('https://cdn.statically.io/gh/csr4mos/static/master/templates/studio/studio-builder/contentbuilder/icons/font/cb-fontello.eot?56979644');
+  src: url('https://cdn.statically.io/gh/csr4mos/static/master/templates/studio/studio-builder/contentbuilder/icons/font/cb-fontello.eot?56979644#iefix') format('embedded-opentype'),
+       url('https://cdn.statically.io/gh/csr4mos/static/master/templates/studio/studio-builder/contentbuilder/icons//font/cb-fontello.svg?56979644#cb-fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
